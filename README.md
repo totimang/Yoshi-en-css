@@ -1,4 +1,4 @@
-# Yoshi_en_-_css
+# Yoshi_en_css
 Dibujando a Yoshi en css.
 
 ## Así es el dibujo antes del diseño
